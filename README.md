@@ -5,7 +5,7 @@ This repository compiles the instructions for the Hands-on session of [EDS-214](
 - [Using the GitHub website](https://eds-214.github.io/eds214-handson-ghcollab/01-handson_github_website.html)
 - [Using Rstudio](https://eds-214.github.io/eds214-handson-ghcollab/02-handson_github_rstudio.html)
 
-
+Brian Edits.
 
 
 
